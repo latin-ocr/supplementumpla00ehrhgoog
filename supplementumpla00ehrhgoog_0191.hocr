@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./supplementumpla00ehrhgoog_0191.png"; bbox 0 0 2970 4963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 3632 33 4208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 31 3632 33 4208">
+     <span class='ocr_line' id='line_1_1' title="bbox 31 3632 33 4208; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 31 3632 33 4208; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 31 3632 33 4413">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 31 3632 33 4413">
+     <span class='ocr_line' id='line_1_2' title="bbox 31 3632 33 4413; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 31 3632 33 4413; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 580 475 2660 592">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 580 475 2660 592">
+     <span class='ocr_line' id='line_1_3' title="bbox 580 475 2660 592; baseline -0.017 -10"><span class='ocrx_word' id='word_1_3' title='bbox 580 486 1427 583; x_wconf 73' lang='lat' dir='ltr'>-PENTA-NDRIA.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1502 494 2010 592; x_wconf 62' lang='lat' dir='ltr'>Monogynia,</span> <span class='ocrx_word' id='word_1_5' title='bbox 2098 475 2105 480; x_wconf 86' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2191 516 2196 520; x_wconf 89' lang='lat'>-</span> <span class='ocrx_word' id='word_1_7' title='bbox 2347 527 2501 592; x_wconf 52' lang='grc' dir='ltr'>π,</span> <span class='ocrx_word' id='word_1_8' title='bbox 2649 530 2660 546; x_wconf 89' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./supplementumpla00ehrhgoog_0031.png"; bbox 0 0 2970 4963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 844 506 2133 625">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 844 506 2133 625">
+     <span class='ocr_line' id='line_1_1' title="bbox 844 506 2133 625; baseline 0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 844 506 1553 606; x_wconf 65' lang='lat' dir='ltr'>&#39;&#39;rmANnnm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1656 517 2133 625; x_wconf 67' lang='lat' dir='ltr'>Monogyrfia.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2494 549 2647 625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2494 549 2647 625">
+     <span class='ocr_line' id='line_1_2' title="bbox 2494 549 2647 625; baseline -0.026 -18"><span class='ocrx_word' id='word_1_3' title='bbox 2494 549 2581 607; x_wconf 74' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_4' title='bbox 2637 611 2647 625; x_wconf 19' lang='grc' dir='ltr'>,ἱ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

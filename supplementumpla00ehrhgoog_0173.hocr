@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./supplementumpla00ehrhgoog_0173.png"; bbox 0 0 2970 4963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 618 503 2018 609">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 618 503 2018 609">
+     <span class='ocr_line' id='line_1_1' title="bbox 618 503 2018 609; baseline 0.004 -25"><span class='ocrx_word' id='word_1_1' title='bbox 618 506 1018 584; x_wconf 58' lang='lat' dir='ltr'>PENJFA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1037 506 1109 580; x_wconf 89' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_3' title='bbox 1132 504 1270 582; x_wconf 69' lang='grc' dir='ltr'>ΠΗ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1284 506 1428 583; x_wconf 79' lang='grc' dir='ltr'>Ι-Α.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1480 554 1488 559; x_wconf 60' lang='lat'><em>›</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1527 503 2018 609; x_wconf 62' lang='lat' dir='ltr'>Monogyniae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2361 532 2599 611">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2361 532 2599 611">
+     <span class='ocr_line' id='line_1_2' title="bbox 2361 532 2599 611; baseline -0.008 -22"><span class='ocrx_word' id='word_1_7' title='bbox 2361 532 2499 607; x_wconf 78' lang='lat'>¹4¹</span> <span class='ocrx_word' id='word_1_8' title='bbox 2584 603 2599 611; x_wconf 43' lang='lat'>‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

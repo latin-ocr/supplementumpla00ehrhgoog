@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./supplementumpla00ehrhgoog_0374.png"; bbox 0 0 2970 4963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 906 473 2567 625">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 906 473 2567 625">
+     <span class='ocr_line' id='line_1_1' title="bbox 906 473 2567 625; baseline -0.004 -29"><span class='ocrx_word' id='word_1_1' title='bbox 906 541 909 544; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 1019 490 2307 625; x_wconf 62' lang='lat' dir='ltr'><strong>DIADEL·PH1A.··D&#39;eeanRria.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2419 473 2420 476; x_wconf 50' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_4' title='bbox 2556 551 2567 559; x_wconf 91' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
